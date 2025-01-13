@@ -1,10 +1,10 @@
 <html>
 <head>index.html
-<title> cricket info </title>
+<title> hockey info </title>
 </head>
 <body style="background-:colour:blue">
-<h1> information about cricket </h1> 
-<p>cricket is the most worldwide popular game </p>
+<h1> information about hockey</h1> 
+<p>hockey is the most worldwide popular game </p>
 <b>div E</b>
 <br>
   <u> </u>
