@@ -27,7 +27,7 @@
 		input[type="button"] { 
 			width: 100%; 
 			padding: 20px 40px; 
-			background-color: green; 
+			background-color: blue; 
 			color: white; 
 			font-size: 24px; 
 			font-weight: bold; 
@@ -71,7 +71,7 @@
 						onkeydown="myFunction(event)"> </td> 
 			<td><input type="button" value="6" onclick="dis('6')"
 						onkeydown="myFunction(event)"> </td> 
-			<td><input type="button" value="" onclick="dis('')"
+			<td><input type="button" value="*" onclick="dis('*')"
 						onkeydown="myFunction(event)"> </td> 
 		</tr> 
 		<tr> 
